@@ -66,7 +66,7 @@ export const OTHER_KINGDOMS = [
   },
   {
       app:
-      'https://zen-shirley-5e9293.netlify.com',
+      'https://ttps://pensive-tereshkova-29c564.netlify.com',
       ruler: 'nicon00b.id.blockstack'
   }
 ]
