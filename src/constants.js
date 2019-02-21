@@ -63,9 +63,10 @@ export const OTHER_KINGDOMS = [
   {
       app: 'https://thirsty-jang-0c0a17.netlify.com',
       ruler: 'ma1222042.id.blockstack'
-  }/*,
+  },
   {
       app:
-      'https:animalkingdoms.netify'
-  }*/
+      'https://zen-shirley-5e9293.netlify.com',
+      ruler: 'nicon00b.id.blockstack'
+  }
 ]
